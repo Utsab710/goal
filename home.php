@@ -32,7 +32,7 @@ $data = mysqli_fetch_assoc($result);
 
 </head>
 
-<body style="background-image:url('img/.jpg');
+<body style="background-image:url('img/abc.jpg');
 background-position:center;
 background-size:150%;
 background-repeat: no-repeat;
